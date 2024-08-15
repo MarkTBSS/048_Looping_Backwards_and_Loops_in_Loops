@@ -10,7 +10,7 @@ Looping Backwards and Loops in Loops
 
 3. You will need a loop inside a loop for this. This is actually a bit tricky, so don't worry if it's too difficult for you! But you can still try to figure this out anyway 😉
 
-#Run
+# Run
 
 ```
 node script.js
